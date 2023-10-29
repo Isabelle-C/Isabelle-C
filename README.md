@@ -19,9 +19,8 @@ In the long term, I would like to be a computational biologist, hopefully specia
 
 ### Life outside of coding
 - I love baking! You won't be dissapointed by my butter cookies:)👩🏻‍🍳
-- I also love learning new languages (and also the culture of different countries). Currently, I am trying to brush up on latin and greek 🏛 and am also learning japanese 🇯🇵 and spanish 🇪🇸.
+- I also love learning new languages (and also the culture of different countries). Currently, I am brushing up on latin and greek 🏛 and am also learning japanese 🇯🇵 and spanish 🇪🇸.
   - Proudly holding 330 days streak on duolingo as of 9/8/2023!
-- I love thinking about life (like why humanity exist and how we can find balance between many aspects of life) and love chatting with other people.
 
 ### Contact 
 - You can reach me at isabellechen2023@u.northwestern.edu and feel free to contact me on LinkedIn 😄.
