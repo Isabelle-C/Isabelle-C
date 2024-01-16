@@ -6,8 +6,15 @@ I am a senior at Northwestern University. My major is Integrated Engineering Stu
 In the long term, I would like to be a computational biologist, hopefully specialized in the field of Immunology 🧬
 
 ### My coding experiences
-- 🔭 Programming Languages: Proficient in Python, R, C/C++, MATLAB, Racket
-- 🌱 Web Development: Proficient in HTML, CSS, JavaScript; Tools: Wordpress, Wix
+- 🔭 Programming Languages: Proficient in 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
+![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
+R, MATLAB, Racket
+- 🌱 Web Development: Proficient in
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) ; Tools: Wordpress, Wix
 - 📀 Database: Enterprise Data Warehouse, Amazon Web Services (AWS), SQL
 - 📊 Data Visualization: Tableau, Microsoft Visual Studio, Jupyter Notebook, Adobe Illustrator, GraphPad Prism
 - 👀 Version control: Azure DevOps, GitHub
@@ -20,22 +27,7 @@ In the long term, I would like to be a computational biologist, hopefully specia
 ### Life outside of coding
 - I love baking! You won't be dissapointed by my butter cookies:)👩🏻‍🍳
 - I also love learning new languages (and also the culture of different countries). Currently, I am brushing up on latin and greek 🏛 and am also learning japanese 🇯🇵 and spanish 🇪🇸.
-  - Proudly holding 330 days streak on duolingo as of 9/8/2023!
+  - Proudly holding 444 days streak on duolingo as of 1/15/2024!
 
 ### Contact 
 - You can reach me at isabellechen2023@u.northwestern.edu and feel free to contact me on LinkedIn 😄.
-
-<!--
-**Isabelle-C/Isabelle-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
