@@ -1,7 +1,7 @@
 ### Hello 👋
 
 ### About me
-I am a senior at Northwestern University. My major is Integrated Engineering Studies, which allows me to customize my own class in the area of computational biology. I am applying to computational biology PhD programs in fall 2023, and I am very excited about contributing more to the academic world in the coming years!
+Northwestern '23 | Incoming Rockefeller PhD student
 
 In the long term, I would like to be a computational biologist, hopefully specialized in the field of Immunology 🧬
 
