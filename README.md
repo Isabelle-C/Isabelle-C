@@ -1,7 +1,7 @@
 ### Hello 👋
 
 ### About me
-Northwestern '23 | Incoming Rockefeller PhD student
+PhD student @ Rockefeller | Northwestern '23
 
 ### My coding experiences
 - 🔭 Programming Languages
